@@ -30,13 +30,17 @@ Tools:
 - VS Code  
 - GitHub (Version Control & Hosting via GitHub Pages)  
 - Chrome/Edge (for testing)
+## 📸 Screenshots
 
+1.  Meme CAPTCHA 
+   ![Main Screen]((https://github.com/karthikmuralias/Meme_Captcha/blob/main/into.png?raw=true))
 
-📸 Screenshots
---------------
-1. Meme CAPTCHA main screen  intro.png
-2. selection phase  middle.png
-3. verified message   last.png
+2.  selection phase    
+   ![selection Message]((https://github.com/karthikmuralias/Meme_Captcha/blob/main/middle.png?raw=true))
+
+3. verified message 
+   ![verified Message]((https://github.com/karthikmuralias/Meme_Captcha/blob/main/last.png?raw=true))
+
 
 🤝 Contribution
 ---------------
