@@ -33,14 +33,13 @@ Tools:
 ## 📸 Screenshots
 
 1.  Meme CAPTCHA 
-   ![Main Screen]((https://github.com/karthikmuralias/Meme_Captcha/blob/main/into.png?raw=true))
+   ![Main Screen](https://github.com/karthikmuralias/Meme_Captcha/blob/main/into.png?raw=true)
 
 2.  selection phase    
-   ![selection Message]((https://github.com/karthikmuralias/Meme_Captcha/blob/main/middle.png?raw=true))
+   ![selection Message](https://github.com/karthikmuralias/Meme_Captcha/blob/main/middle.png?raw=true)
 
 3. verified message 
-   ![verified Message]((https://github.com/karthikmuralias/Meme_Captcha/blob/main/last.png?raw=true))
-
+   ![verified Message](https://github.com/karthikmuralias/Meme_Captcha/blob/main/last.png?raw=true)
 
 🤝 Contribution
 ---------------
