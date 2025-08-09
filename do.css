@@ -1,0 +1,51 @@
+/* Reset basic styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Set full viewport height */
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f0f2f5;
+  font-family: Arial, sans-serif;
+}
+
+/* Container for the captcha box */
+.captcha-box {
+  display: flex;
+  align-items: center;
+  padding: 20px 40px;
+  border: 2px solid #d3d3d3;
+  border-radius: 12px;
+  background-color: white;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Left side (checkbox + label) */
+.recaptcha-left {
+  display: flex;
+  align-items: center;
+  font-size: 1.5rem;
+  gap: 15px;
+}
+
+/* Enlarge the checkbox */
+.recaptcha-left input[type="checkbox"] {
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
+
+/* Spinner/logo section */
+.recaptcha-spinner {
+  margin-left: 20px;
+}
+
+.recaptcha-spinner img {
+  width: 60px;
+}

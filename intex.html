@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Meme CAPTCHA</title>
+  <link rel="stylesheet" href="do.css" />
+</head>
+<body>
+  <div class="captcha-box">
+    <div class="recaptcha-left">
+      <input type="checkbox" id="robotCheck">
+      <label for="robotCheck">I'm not a robot</label>
+    </div>
+    <div class="recaptcha-spinner">
+      <img src="Recaptcha_logo.png" alt="reCAPTCHA Logo">
+    </div>
+  </div>
+
+  <script>
+document.getElementById("robotCheck").addEventListener("change", function () {
+  if (this.checked) {
+    setTimeout(function () {
+      window.location.href = "verify.html";
+    }, 500); // 500 ms = 1 second delay
+  }
+});
+</script>
+
+</body>
+</html>
